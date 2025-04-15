@@ -390,6 +390,8 @@ main {
   opacity: 0;
   visibility: hidden;
   transition: var(--transition-2);
+  width: 300px;
+  word-break: break-word;
 }
 
 .sidebar.active .sidebar-info_more {
