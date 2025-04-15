@@ -390,7 +390,7 @@ main {
   opacity: 0;
   visibility: hidden;
   transition: var(--transition-2);
-  width: 450px;
+  width: 600px;
   word-break: break-word;
 }
 
